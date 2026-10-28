@@ -6,7 +6,7 @@
 
 // Ganti dengan nomor WhatsApp toko.
 // Contoh: 62XXXXXXXXXXX (tanpa tanda +)
-const WHATSAPP_STORE_NUMBER = "6285850386383";
+const WHATSAPP_STORE_NUMBER = "6281252569842";
 
 // =========================================
 // 1. DATA PRODUK
@@ -336,7 +336,7 @@ document.getElementById("orderForm").addEventListener(
         // Validasi nomor WhatsApp toko
         if (
             !/^\d{9,15}$/.test(WHATSAPP_STORE_NUMBER) ||
-            WHATSAPP_STORE_NUMBER === "6285850386383"
+            WHATSAPP_STORE_NUMBER === "081252569842"
         ) {
             formMessage.textContent =
                 "Silakan ganti nomor WhatsApp toko di script.js dengan nomor yang aktif.";
