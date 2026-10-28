@@ -6,7 +6,7 @@
 
 // Ganti dengan nomor WhatsApp toko.
 // Contoh: 6281234567890 (tanpa tanda +)
-const WHATSAPP_STORE_NUMBER = "6281234567890";
+const WHATSAPP_STORE_NUMBER = "6285850386383";
 
 // =========================================
 // 1. DATA PRODUK
